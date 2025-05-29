@@ -1,4 +1,4 @@
-```markdown
+
 # 🕹️ Jogo da Velha em C
 
 Este projeto é uma implementação simples do **Jogo da Velha (Tic-Tac-Toe)** em linguagem C, jogado por dois jogadores no terminal.
