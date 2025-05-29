@@ -5,7 +5,7 @@ Este projeto é uma implementação simples do **Jogo da Velha (Tic-Tac-Toe)** e
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 
 O objetivo do jogo é alinhar três símbolos iguais (`X` ou `O`) em uma linha, coluna ou diagonal, antes do adversário.  
 Se todas as casas do tabuleiro forem preenchidas sem que haja um vencedor, o jogo termina em **empate**.
@@ -46,7 +46,7 @@ Função principal que executa o fluxo do jogo:
 
 ---
 
-## 🧠 Lógica do Jogo
+## Lógica do Jogo
 
 - O jogo é controlado por turnos alternados entre os jogadores `X` e `O`.
 - O tabuleiro é exibido a cada jogada.
